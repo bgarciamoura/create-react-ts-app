@@ -1,0 +1,20 @@
+:root {
+    font-size: 60%;
+}
+
+* {
+    /* font-family: 'Archivo', sans-serif; */
+    /* font-family: 'Baloo Tamma 2', cursive; */
+    /* font-family: 'Roboto', sans-serif; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+input,
+button,
+textarea {
+    font: 500 1.6rem Archivo;
+    color: var(--color-text-base);
+}
