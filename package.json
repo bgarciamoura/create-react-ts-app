@@ -1,6 +1,6 @@
 {
-    "name": "cra-template-tocode-tsreact",
-    "version": "1.0.0",
+    "name": "@bgarciamoura/cra-template-tocode-tsreact",
+    "version": "1.0.1",
     "license": "MIT",
     "keywords": [
         "react",
@@ -9,7 +9,7 @@
         "2code",
         "webpack"
     ],
-    "description": "Template for use webpack to create and run a ReactJS app",
+    "description": "Template to create a React app using Typescript and Webpack",
     "repository": {
         "type": "git",
         "url": "https://github.com/bgarciamoura/create-react-ts-app.git"
